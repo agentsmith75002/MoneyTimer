@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MoneyTimer/.vs/MoneyTimer/v14/.suo
+/MoneyTimer/bin
+/MoneyTimer/obj
+/MoneyTimer/project.lock.json
